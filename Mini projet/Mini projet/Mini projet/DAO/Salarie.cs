@@ -41,8 +41,9 @@ namespace Mini_projet.DAO
 
         // clés étrangères
         private int codeCat; // Categorie
-        // ...
+        private string noAdherent; // Adherent
 
+        // ...
 
     }
 }
